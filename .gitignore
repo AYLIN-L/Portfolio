@@ -1,0 +1,18 @@
+# Dependencies
+frontend/node_modules/
+
+# Production build
+frontend/dist/
+
+# Environment variables
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+
+# Editor
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
